@@ -1,17 +1,17 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set /p accept_eula="Akzeptieren Sie die EULA? (ja/nein): "
-set /p full_name="Geben Sie Ihren vollständigen Namen ein: "
-set /p organization="Geben Sie die Organisation ein (lassen Sie leer, wenn nicht zutreffend): "
-set /p product_key="Geben Sie den Produktkey ein (lassen Sie leer, wenn nicht zutreffend): "
-set /p connect_to_microsoft="Möchten Sie eine Verbindung zu Microsoft herstellen? (ja/nein): "
-set /p send_info="Möchten Sie Informationen senden? (ja/nein): "
-set /p feedback="Möchten Sie an Feedback teilnehmen? (ja/nein): "
-set /p enable_optional="Möchten Sie optionale Netzwerkverbindungen aktivieren? (ja/nein): "
-set /p language="Wählen Sie eine Sprache (de-DE/en-US): "
-set /p region="Geben Sie die Region ein (z.B. DE für Deutschland, US für USA): "
-set /p layout="Geben Sie das Tastaturlayout ein (z.B. de-DE für Deutsch, en-US für Englisch): "
+set /p accept_eula="EULA? (ja/nein): "
+set /p full_name="Name: "
+set /p organization="Organisation (nein = leer): "
+set /p product_key="Produktkey (nein = leer): "
+set /p connect_to_microsoft="Verbindung zu Microsoft herstellen? (ja/nein): "
+set /p send_info="↳Informationen senden? (ja/nein): "
+set /p feedback="↳Feedback teilnehmen? (ja/nein): "
+set /p enable_optional="↳optionale Netzwerkverbindungen aktivieren? (ja/nein): "
+set /p language="Sprache (de-DE/en-US): "
+set /p region="Region (DE/US): "
+set /p layout="Tastaturlayout (de-DE/en-US): "
 
 set xml_output="install.xml"
 (
