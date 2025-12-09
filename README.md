@@ -1,12 +1,12 @@
-Default
+clone
 ```
 git clone https://github.com/florianthepro/win11.git
 ```
-Default
+use dic
 ```
 cd win11
 ```
-Je nach xml
+use bat
 ```
-start /wait setup.exe /unattended /xml:xml.xml
+install.bat
 ```
