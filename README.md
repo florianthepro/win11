@@ -1,9 +1,12 @@
-```Default
+Default
+```
 git clone https://github.com/florianthepro/win11.git
 ```
-```Default
+Default
+```
 cd win11
 ```
-```Extra
-start /wait setup.exe /unattended /xml:admfloriank.xml
+Je nach xml
+```
+start /wait setup.exe /unattended /xml:xml.xml
 ```
