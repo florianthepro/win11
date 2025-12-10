@@ -1,4 +1,4 @@
 # 📚 Manuals
 
 Alle Anleitungen sind über die zentrale Index-Seite erreichbar:  
-👉 [Zur Übersicht](https://florianthepro.github.io/win11/work.md)
+👉 [Zur Übersicht](https://github.com/florianthepro/win11/work.md)
