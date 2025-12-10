@@ -7,9 +7,4 @@
 👉 [work](https://github.com/florianthepro/win11/blob/main/work.md)
 
 ## Generiere work.md
-
-Füge das folgende Python-Skript in eine Datei `generate.py` ein und führe es aus:
-
-```python
-with open('work.md', 'w') as f:
-    f.write('test')
+<a href="https://florianthepro.github.io/win11/work.md" download>work.md herunterladen</a>
