@@ -8,7 +8,7 @@ cd win11
 ```
 install.bat
 /
-start /wait setup.exe /unattended /xml:work.xml &&
+start /wait setup.exe /unattended /xml:work.xml
 ```
 <!-- Kommentar
 note:
