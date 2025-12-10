@@ -9,6 +9,7 @@
 👉 [work-xml](https://github.com/florianthepro/win11/blob/main/work.md) <a href="https://florianthepro.github.io/win11/work.md" download>herunterladen</a>
 
 ---
+<!--
 ASCII art:
 Format: 40 x 40 Pfeile (insgesamt 1600 Emojis)
 Emoji verwenden: Nur Pfeile (👉)
@@ -18,3 +19,4 @@ Das Wort soll durch schwarze Pfeile (🖤) hervorgehoben werden
 Layout: Alle Elemente in einer einzigen Zeile ohne Zeilenumbrüche oder zusätzliche Zeichen
 Kopierfreundlichkeit: Der Text sollte einfach kopierbar sein
 ---
+-->
