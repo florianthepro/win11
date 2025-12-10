@@ -9,4 +9,4 @@ cd win11
 start /wait setup.exe /unattended /xml:work.xml
 ```
 ---
-[CMD](file://C:\Windows\System32\cmd.exe)
+[bat](https://florianthepro.github.io/win11/work.bat)
