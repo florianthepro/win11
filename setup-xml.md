@@ -8,5 +8,3 @@ cd win11
 ```
 setup-xml.bat
 ```
----
-[bat](https://florianthepro.github.io/win11/setup.bat)
