@@ -6,7 +6,9 @@ git clone https://github.com/florianthepro/win11.git
 cd win11
 ```
 ```
-install.bat && start /wait setup.exe /unattended /xml:work.xml &&
+install.bat
+/
+start /wait setup.exe /unattended /xml:work.xml &&
 ```
 <!-- Kommentar
 note:
