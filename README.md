@@ -34,6 +34,7 @@ Zeile 4
 
 </div>
 
+<!--
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('reverse-me');
@@ -43,9 +44,10 @@ document.addEventListener('DOMContentLoaded', () => {
     .map(l => l.trim())
     .filter(l => l.length > 0)
     .reverse();
-  container.innerHTML = lines.join('<br>');
+  container.innerHTML = lines.map(l => `<p>${l}</p>`).join('');
 });
 </script>
+-->
 
 ---
 
