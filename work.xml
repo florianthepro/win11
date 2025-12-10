@@ -23,7 +23,4 @@
     <Keyboard>
         <Layout>de-DE</Layout>
     </Keyboard>
-    <BatchFiles>
-        <File>bat.bat</File>
-    </BatchFiles>
 </unattended>
