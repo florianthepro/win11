@@ -18,7 +18,8 @@ Wort: Das Wort "florianthepro" muss gebildet werden
 Farbgebung:
 Das Wort soll durch schwarze Pfeile (🖤) hervorgehoben werden
 Layout: Alle Elemente in einer einzigen Zeile ohne Zeilenumbrüche oder zusätzliche Zeichen
-Kopierfreundlichkeit: Der Text sollte einfach kopierbar sein
+gebe es mir in kopierfreundlichen Segmenten (4 Zeilen à 400 Zeichen)
+gebe nun Segment 1/4 aus
 ```
 ---
 -->
