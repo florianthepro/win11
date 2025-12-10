@@ -13,10 +13,10 @@
 ```
 ASCII art:
 Format: 40 x 40 Pfeile (insgesamt 1600 Emojis)
-Emoji verwenden: Nur Pfeile (👉)
+Emoji verwenden: Nur Pfeile (👉) und (🖤)
 Wort: Das Wort "florianthepro" muss gebildet werden
 Farbgebung:
-Das Wort soll durch schwarze Pfeile (🖤) hervorgehoben werden
+Das Wort soll durch (🖤) hervorgehoben werden
 Layout: Alle Elemente in einer einzigen Zeile ohne Zeilenumbrüche oder zusätzliche Zeichen
 gebe es mir in kopierfreundlichen Segmenten (4 Zeilen à 400 Zeichen)
 gebe nun Segment 1/4 aus
