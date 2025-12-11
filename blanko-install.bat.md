@@ -1,4 +1,12 @@
-test URL `https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi`
+<script type="text/plain" id="cmd-00">
+https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi
+</script>
+
+<button onclick="navigator.clipboard.writeText(document.getElementById('cmd-00').textContent)">
+test URL
+</button>
+
+---
 
 <script type="text/plain" id="cmd-01">
 
