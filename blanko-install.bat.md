@@ -1,6 +1,5 @@
 test URL `https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi`
 
-
 <script type="text/plain" id="cmd-01">
 
 @echo off
@@ -89,15 +88,9 @@ rd /s /q "%WORK%" >nul 2>&1
 Final
 </button>
 
-```
-
 ---
 
-<details>
-  <summary>v2</summary>
-
-```bash
-
+<script type="text/plain" id="cmd-02">
 
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
@@ -198,14 +191,15 @@ rd /s /q "%WORK%" >nul 2>&1
 echo [√] Fertig.
 exit /b 0
 
-```
+</script>
+
+<button onclick="navigator.clipboard.writeText(document.getElementById('cmd-02').textContent)">
+v2
+</button>
 
 ---
 
-<details>
-  <summary>v1</summary>
-
-```bash
+<script type="text/plain" id="cmd-03">
 
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
@@ -311,4 +305,8 @@ rd /s /q "%WORK%" >nul 2>&1
 echo [√] Fertig.
 exit /b 0
 
-```
+</script>
+
+<button onclick="navigator.clipboard.writeText(document.getElementById('cmd-03').textContent)">
+v1
+</button>
