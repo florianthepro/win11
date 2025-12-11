@@ -1,10 +1,7 @@
 test URL `https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi`
 
 
-<details>
-  <summary>final</summary>
-
-```bash
+<script type="text/plain" id="cmd-01">
 
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
@@ -85,6 +82,12 @@ if /i "%EXT2%"==".msi" (
 )
 
 rd /s /q "%WORK%" >nul 2>&1
+
+</script>
+
+<button onclick="navigator.clipboard.writeText(document.getElementById('cmd-01').textContent)">
+Final
+</button>
 
 ```
 
